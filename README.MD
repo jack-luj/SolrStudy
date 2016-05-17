@@ -12,4 +12,6 @@ http://www.cnblogs.com/HD/p/3978933.html <br>
 数据库导入
 [solr] - 数据库导入
 http://www.cnblogs.com/HD/p/3981677.html
-dataimport 对接db 索引更新
+dataimport 对接db 索引更新<br>
+Solr facet使用于分类统计
+http://www.cnblogs.com/HD/p/3998321.html
