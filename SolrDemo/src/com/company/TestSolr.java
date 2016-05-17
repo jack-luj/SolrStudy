@@ -76,10 +76,11 @@ public class TestSolr {
         // ------------------------------------------------------
         SolrQuery query = new SolrQuery();
         query.setQuery("*:*");
+        query.setQuery("subject:*出租* && price:[1000 TO 8000]");
         query.setStart(0); // query的开始行数(分页使用)
         query.setRows(100); // query的返回行数(分页使用)
         query.setFacet(true); // 设置使用facet
-        query.setFacetMinCount(1); // 设置facet最少的统计数量
+        query.setFacetMinCount(0); // 设置facet最少的统计数量
         query.setFacetLimit(10); // facet结果的返回行数
         query.addFacetField("categoryId", "regionId"); // facet的字段
         query.setFacetSort(FacetParams.FACET_SORT_COUNT);
