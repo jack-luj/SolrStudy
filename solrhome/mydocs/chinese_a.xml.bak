@@ -1,0 +1,32 @@
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agreements.  See the NOTICE file distributed with
+ this work for additional information regarding copyright ownership.
+ The ASF licenses this file to You under the Apache License, Version 2.0
+ (the "License"); you may not use this file except in compliance with
+ the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<add>
+    <doc>
+      <field name="id">88SS-CSS2</field>
+      <field name="name">我是Robin</field>
+      <field name="text">一直以来，我都是这样轻轻的走着...</field>
+    </doc>
+    <doc>
+      <field name="id">OMC-9923</field>
+      <field name="name">My test core, ha ha solr, I am come in.ss</field>
+      <field name="text">国家主席习xx17日抵达古吉拉特邦艾哈迈达巴德市，开始对印度进行国事访问。 当地时间下午2时50分许，习xx乘坐的专机抵达艾哈迈达巴德的机场。习xx和夫人彭xx受到印度古吉拉特邦邦长克利、首席部长帕特尔、印度驻华大使康特等热情迎接。图为习xx和夫人彭xx在印度总理莫迪陪同下一起荡秋千。</field>
+    </doc>
+</add>
+
+
+
